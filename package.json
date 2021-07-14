@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "hugo-extended": "^0.85.0",
     "postcss-cli": "^8.3.1",
     "postcss-import": "^14.0.2",
     "tailwindcss": "^2.2.4",
