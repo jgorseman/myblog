@@ -19,3 +19,8 @@ series = "series"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
+[[navbar]]
+  identifier = "post"
+  name = "Posts"
+  url = "/post/"
