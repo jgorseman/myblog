@@ -1,3 +1,11 @@
-baseURL = "http://example.org/"
+title = "Jorrit Gorseman"
+theme = "hugo-theme-monochrome"
+baseURL = "https://jorrit.co"
 languageCode = "en-us"
-title = "My New Hugo Site"
+
+[build]
+writeStats = true
+
+[params]
+navbarTitle = "Monochrome"
+footer = "Copyright © 2021 by Jorrit Gorseman"
