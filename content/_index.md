@@ -15,4 +15,4 @@ keywords:
 - programmer-friendly
 ---
 
-This is the demo of hugo-theme-monochrome.
+This is the blog of Jorrit Gorseman.
