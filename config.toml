@@ -1,5 +1,5 @@
 title = "Jorrit Gorseman"
-theme = "hugo-theme-monochrome"
+theme = "monochrome"
 baseURL = "https://jorrit.co"
 languageCode = "en-us"
 
