@@ -2,6 +2,7 @@ title = "Jorrit Gorseman"
 theme = "monochrome"
 baseURL = "https://jorrit.co"
 languageCode = "en-us"
+enableEmoji = true
 
 [build]
 writeStats = true
@@ -10,3 +11,11 @@ writeStats = true
 navbarTitle = "Jorrit Gorseman"
 enableSiteSearch = true
 footer = "Copyright © 2021 by Jorrit Gorseman"
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
