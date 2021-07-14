@@ -8,4 +8,5 @@ writeStats = true
 
 [params]
 navbarTitle = "Jorrit Gorseman"
+enableSiteSearch = true
 footer = "Copyright © 2021 by Jorrit Gorseman"
