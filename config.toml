@@ -20,7 +20,10 @@ series = "series"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
+[menu]
+
 [[navbar]]
-  identifier = "post"
-  name = "Posts"
-  url = "/post/"
+identifier = "post"
+name = "Posts"
+url = "/post/"
+weight = 1
