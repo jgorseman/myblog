@@ -23,7 +23,7 @@ home = ["HTML", "RSS", "JSON"]
 [menu]
 
 [[navbar]]
-identifier = "post"
-name = "Posts"
-url = "/post/"
+identifier = "about"
+name = "About"
+url = "/about/about.md"
 weight = 1
