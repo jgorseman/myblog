@@ -16,4 +16,4 @@ keywords:
 ---
 
 Me in 10 seconds:
-Currently switching careers to IT. Born in Rotterdam, lived in Rockford (MI), Chicago, and Aberdeen (Scotland). Studied philosophy and counseling. Love tinkering with digital tools, traveling, and boardgames with friends.
+Currently switching careers to IT. Born in Rotterdam, lived in Rockford (MI), Chicago, and Aberdeen (Scotland). Studied philosophy and counseling. Love tinkering with digital tools, traveling, and playing boardgames with friends.
