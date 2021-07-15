@@ -3,7 +3,7 @@ type: 'balloon'
 balloon_img_src: "icons/bookcase.svg"
 balloon_img_src_dark: "icons/bookcase_dark.svg"
 balloon_circle: false
-balloon_resources: "/posts/"
+balloon_resources: "/aboutsite"
 description: "Blog of Jorrit Gorseman"
 zooming_js: false
 keywords:
