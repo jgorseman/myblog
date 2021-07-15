@@ -1,14 +1,4 @@
 [[navbar]]
-  identifier = "setup"
-  name = "Setup"
-  url = "/setup/"
-  weight = 3
-[[navbar]]
-  identifier = "changelog"
-  name = "Changelog"
-  url = "/changelog/"
-  weight = 2
-[[navbar]]
   identifier = "configuration"
   name = "Configuration"
   url = "/configuration/"
@@ -32,10 +22,25 @@
     parent = "configuration"
     weight = 3
 [[navbar]]
+  identifier = "posts"
+  name = "Posts"
+  url = "/posts/"
+  weight = 2
+[[navbar]]
+  identifier = "setup"
+  name = "Setup"
+  url = "/setup/"
+  weight = 3
+[[navbar]]
+  identifier = "changelog"
+  name = "Changelog"
+  url = "/changelog/"
+  weight = 4
+[[navbar]]
   identifier = "layouts"
   name = "Layouts"
   url = "/layouts/"
-  weight = 4
+  weight = 5
   [[navbar]]
     identifier = "demo"
     name = "Demostration"
@@ -100,7 +105,7 @@
   identifier = "shortcodes"
   name = "Shortcodes"
   url = "/shortcodes/"
-  weight = 5
+  weight = 6
   [[navbar]]
     identifier = "shortcodes_svg_wrapper"
     name = "SVG Wrapper"
@@ -137,8 +142,4 @@
     url = "/shortcodes/terms-cloud/"
     weight = 6
     parent = "shortcodes"
-[[navbar]]
-  identifier = "posts"
-  name = "Posts"
-  url = "/posts/"
-  weight = 6
+
