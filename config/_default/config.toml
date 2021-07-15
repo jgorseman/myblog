@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://jorrit.co"
 languageCode = "en"
-title = "Monochrome"
-theme = "hugo-theme-monochrome"
+title = "Jorrit Gorseman"
+theme = "monochrome"
 defaultContentLanguage = "en"
 enableEmoji = true
 
