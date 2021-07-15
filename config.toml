@@ -25,5 +25,5 @@ home = ["HTML", "RSS", "JSON"]
 [[navbar]]
 identifier = "about"
 name = "About"
-url = "/about"
+url = "/about/"
 weight = 1
