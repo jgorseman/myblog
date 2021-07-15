@@ -4,7 +4,7 @@ balloon_img_src: "icons/vase.svg"
 balloon_img_src_dark: "icons/vase_dark.svg"
 balloon_circle: false
 balloon_resources: "/about"
-description: "Demo site of hugo-theme-monochrome"
+description: "Blog of Jorrit Gorseman"
 zooming_js: false
 keywords:
 - hugo
@@ -15,6 +15,5 @@ keywords:
 - programmer-friendly
 ---
 
-{{< svg-wrapper name="github" link="https://github.com/kaiiiz/hugo-theme-monochrome" />}}
-
-This is the demo of hugo-theme-monochrome.
+Me in 10 seconds:
+Currently switching careers to IT. Born in Rotterdam, lived in Rockford, MI, Chicago & Aberdeen, Scotland. Studied philosophy and counseling. Love tinkering with digital tools, traveling, and boardgames with friends.
