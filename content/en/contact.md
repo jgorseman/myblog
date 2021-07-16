@@ -5,7 +5,7 @@ toc: false
 
 ## Where can I contact you?
 
-Connect with me on[LinkedIn](https://www.linkedin.com/in/jorritgorseman/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jorritgorseman/)
 
 View my projects on [GitHub](https://github.com/jgorseman)
 
