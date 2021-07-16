@@ -4,6 +4,7 @@ title = "Jorrit Gorseman"
 theme = "monochrome"
 defaultContentLanguage = "en"
 enableEmoji = true
+disableLanguages = ["zh-tw"]
 
 [build]
 writeStats = true
