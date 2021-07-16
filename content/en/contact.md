@@ -5,6 +5,8 @@ toc: false
 
 ## Where can I contact you?
 
- {{< svg-wrapper link="https://simpleicons.org/icons/linkedin.svg" >}}[LinkedIn](https://www.linkedin.com/in/jorritgorseman/)
+Connect with me on[LinkedIn](https://www.linkedin.com/in/jorritgorseman/)
 
-[GitHub](https://github.com/jgorseman)
+View my projects on [GitHub](https://github.com/jgorseman)
+
+Send me an email at firstname dot lastname at gmail dot com.
