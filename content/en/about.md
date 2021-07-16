@@ -1,3 +1,5 @@
 ---
-title: 'Setup'
+title: 'About'
+toc: false
 ---
+## Who I am
