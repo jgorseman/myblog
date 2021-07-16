@@ -32,9 +32,9 @@
   url = "/now/"
   weight = 2
 [[navbar]]
-  identifier = "changelog"
-  name = "Changelog"
-  url = "/changelog/"
+  identifier = "Contact"
+  name = "Contact"
+  url = "/contact/"
   weight = 4
 
 
