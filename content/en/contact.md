@@ -3,5 +3,8 @@ title: 'Contact'
 toc: false
 ---
 
-## Where you can contact me
+## Where can I contact you?
 
+On [LinkedIn](https://www.linkedin.com/in/jorritgorseman/
+
+On [GitHub](https://github.com/jgorseman)

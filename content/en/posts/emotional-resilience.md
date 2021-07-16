@@ -1,5 +1,5 @@
 ---
-title: "Emotional Resilience"
+title: "Emotional resilience"
 date: 2019-10-21T12:38:37+01:00
 draft: false
 ---

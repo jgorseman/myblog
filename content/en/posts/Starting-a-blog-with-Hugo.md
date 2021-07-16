@@ -1,5 +1,5 @@
 ---
-title: "Starting a Blog With Hugo"
+title: "Starting a blog with Hugo"
 date: 2019-06-20
 draft: false
 ---
