@@ -3,24 +3,6 @@
   name = "About"
   url = "/about/"
   weight = 1
-  [[navbar]]
-    identifier = "site_settings"
-    name = "Site Settings"
-    url = "/about/site"
-    parent = "about"
-    weight = 1
-  [[navbar]]
-    identifier = "theme_settings"
-    name = "Theme Settings"
-    url = "/about/theme"
-    parent = "about"
-    weight = 2
-  [[navbar]]
-    identifier = "page_settings"
-    name = "Page Settings"
-    url = "/about/page"
-    parent = "about"
-    weight = 3
 [[navbar]]
   identifier = "posts"
   name = "Posts"
