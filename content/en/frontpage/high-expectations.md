@@ -1,7 +1,8 @@
-+++
+---
 date = 2020-01-19T08:00:00Z
 title = "High expectations"
-+++
+weight: 1
+---
 
 We have come so far as a species. We have advanced in science, technology, economics and politics. The systems we’ve created are complex, but they make prosperity possible for a great number of people.  
   
