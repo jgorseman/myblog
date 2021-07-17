@@ -1,10 +1,8 @@
 ---
 title: 'About'
 toc: false
-type: gallery
-gallery_img_src: 'photo-jg.jpg'
 ---
-
+![Jorrit Gorseman](/photo-jg.jpg)
 ## Who are you?
 
 Born in Rotterdam about 26 odd years ago, I've spent the majority of my life so far in the Netherlands. When I was sixteen I spent a year studying at a high school in a little town called Rockford, Michigan. That and the summer holidays with my family opened me up to a love of traveling. For university I decided to go to Scotland to study philosophy and psychology, and I graduated in the midst of 2020, ready for the next chapter in life.
