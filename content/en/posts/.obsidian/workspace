@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "8ee438e329657da1",
+    "type": "split",
+    "children": [
+      {
+        "id": "229eb1791b8da651",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "emotional-resilience.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b26772659de8e319",
+    "type": "split",
+    "children": [
+      {
+        "id": "66cecffb56c95a79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fdc8de5c289cae7c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b39d2db08ea87a7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9457c01c5c6dd805",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5fbc2efa7e1e900",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d1ed4bc7f3e3b21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "emotional-resilience.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "229eb1791b8da651",
+  "lastOpenFiles": [
+    "emotional-resilience.md",
+    "high-expectations.md",
+    "Starting-a-blog-with-Hugo.md",
+    "index.md"
+  ]
+}
